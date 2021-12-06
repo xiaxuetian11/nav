@@ -3,7 +3,7 @@
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
   "loading": "random",
-  "showGithub": true,
+  "showGithub": false,
   "title": "新科技",
   "description": "新科技",
   "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
