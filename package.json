@@ -7,12 +7,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xjh22222228/nav.git"
+    "url": "git+https://github.com/xiaxuetian11/nav.git"
   },
-  "homepage": "https://github.com/xjh22222228/nav",
+  "homepage": "https://github.com/xiaxuetian11/nav",
   "scripts": {
     "ng": "ng",
-    "start": "ng serve --port=7001",
+    "start": "ng serve --disable-host-check --port=7001",
     "setup": "tsc nav.config.ts && ts-node ./scripts/build.mjs",
     "build": "npm run setup && ng build --prod --base-href ./",
     "lint": "eslint --cache --ext .js,.ts ./src"
